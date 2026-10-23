@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,87467,t=>{"use strict";var e=t.i(51197),i=t.i(54569),s=t.i(78881);t.s(["MerchantsRoute",0,function(){let t=(0,i.useSearchParams)();return(0,e.jsx)(s.MerchantsView,{initialShop:t.get("shop")})}])}]);
